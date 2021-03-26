@@ -1,0 +1,6 @@
+h1
+{
+    text-transform: capitalize;
+    text-shadow: 2px 2px 2px solid red;
+    text-decoration: underline;
+}
